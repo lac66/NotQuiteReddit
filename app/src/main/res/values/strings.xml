@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NotQuiteReddit</string>
+    <string name="editTextLoginPasswordHint">Password</string>
+    <string name="buttonLoginString">Login</string>
+    <string name="buttonCreateAccountString">Create New Account</string>
+    <string name="editTextRegistrationNameHint">Name</string>
+    <string name="editTextRegistrationEmailHint">Email</string>
+    <string name="editTextRegistrationPasswordHint">Password</string>
+    <string name="buttonRegistrationSubmitString">Submit</string>
+    <string name="buttonRegistrationCancelString">Cancel</string>
+    <string name="textViewGenreLabelString">Genres</string>
+    <string name="buttonLogOutString">Log Out</string>
+    <string name="editTextLoginEmailHint">Email</string>
+    <string name="buttonNewForumString">New Forum</string>
+    <string name="buttonForumLogoutString">Logout</string>
+    <string name="editTextNewForumTitleHint">Forum Title</string>
+    <string name="editTextNewForumDescriptionHint">Forum Description</string>
+    <string name="editTextWriteCommentHint">Write Comment</string>
+    <string name="buttonPostCommentString">Post</string>
+</resources>
